@@ -17,7 +17,7 @@ setup(
     packages=['mtfTools'],
     entry_points={
         'console_scripts': [
-            'mtf = mtfTools.main',
+            'mtf = mtfTools.__main__:main',
         ],
     },
     install_requires=requirements,

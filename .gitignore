@@ -1,4 +1,4 @@
 dist
-mtf.egg-info
+mtfTools.egg-info
 build
 *.pyc
